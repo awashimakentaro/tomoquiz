@@ -12,12 +12,12 @@ const quiz = [
   {
     question: 'のべとは？',
     answer: [
-      'やりちん',
+      '-----',
       'へんたい' ,
       'いけめん',
       'うすっぺらい',
             ],
-     correct: "やりちん"},
+     correct: "-----"},
    {
      question: 'kisiyuとは？',
      answer: [
